@@ -1059,10 +1059,9 @@ img {
 
 .modal-form-checkbox {
 }
+
 .modal-form-custom-checkbox {
-  display: inline-flex;
-}
-.modal-form-custom-checkbox {
+  display: flex;
   width: 16px;
   height: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
